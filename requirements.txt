@@ -1,0 +1,4 @@
+# openai >= 1.106 es necesario para pasar el token de Entra ID como api_key (API v1)
+openai>=1.106,<3
+azure-identity>=1.19,<2
+python-dotenv>=1.0,<2
